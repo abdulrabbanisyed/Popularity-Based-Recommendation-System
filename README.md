@@ -26,3 +26,7 @@ This is a movie recommendation system that uses pandas and its functions to anal
 
 ## Top 10 Movies by Rating
 <img width="1034" alt="image" src="https://github.com/user-attachments/assets/58aebcff-8039-4ebc-8b23-9736084afeef">
+
+## Conclusion
+
+This movie recommendation system uses pandas to analyze movie ratings and views and returns the top 10 movies based on rating and number of views. The system is a great example of how pandas can be used to analyze and visualize data.
