@@ -6,7 +6,7 @@ This is a movie recommendation system that uses pandas and its functions to anal
 - Returns top 10 movies based on the number of views.
 - Used pandas for data modeling and analysis.
 
-## The Dataset used in the project, the source is from Kaggel (IMDB_Movie_Data)
+## The Dataset used in the project, the source is from Kaggle (IMDB_Movie_Data)
 
   <img width="1019" alt="image" src="https://github.com/user-attachments/assets/271d9ad3-86e3-4f59-82ee-c2eecc2e4891">
 
